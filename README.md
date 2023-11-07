@@ -6,3 +6,5 @@
 1. Go to `Settings` > `Secrets` and add a new secret with the same name.
 1. [Pass the secret](.github/workflows/main.yml) to the container as an environment variable.
 1. Enjoy!
+
+2. test TExt
